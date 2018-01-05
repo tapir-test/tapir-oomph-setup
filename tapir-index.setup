@@ -35,9 +35,9 @@
   <discoverablePackage
       href="http://git.eclipse.org/c/oomph/org.eclipse.oomph.git/plain/setups/models/WorkingSets.ecore#/"/>
   <productCatalog
-      href="file://C:/Projekte/IDE/Oomph-Setup/work/tapir-setup/tapir-product-catalog.setup#/"/>
+      href="https://raw.githubusercontent.com/tapir-test/tapir-oomph-setup/master/tapir-product-catalog.setup#/"/>
   <projectCatalog
-      href="file://C:/Projekte/IDE/Oomph-Setup/work/tapir-setup/tapir-project-catalog.setup#/"/>        
+      href="https://raw.githubusercontent.com/tapir-test/tapir-oomph-setup/master/tapir-project-catalog.setup#/"/>        
       <!--
   <productCatalog
       href="catalog:/self-product-catalog.setup#/"/>

@@ -21,6 +21,6 @@
       <substitution>${workspace.location|path}</substitution>
     </modification>
   </setupTask>
-  <project href="file://C:/Projekte/IDE/Oomph-Setup/work/tapir-setup/tapir-showcase.setup#/"/>
+  <project href="https://raw.githubusercontent.com/tapir-test/tapir-oomph-setup/master/tapir-showcase.setup#/"/>
   <description>tapir Projects</description>
 </setup:ProjectCatalog>

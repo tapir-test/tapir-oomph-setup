@@ -10,14 +10,14 @@
     <setupTask
         xsi:type="setup:EclipseIniTask"
         option="-Doomph.redirection.projects="
-        value="index:/redirectable.projects.setup->file://C:/Projekte/IDE/Oomph-Setup/work/tapir-setup/tapir-project-catalog.setup"
+        value="index:/redirectable.projects.setup->https://raw.githubusercontent.com/tapir-test/tapir-oomph-setup/master/tapir-project-catalog.setup"
         vm="true"/>
     <setupTask
         xsi:type="setup:EclipseIniTask"
         option="-Doomph.redirection.products="
-        value="index:/redirectable.products.setup->file://C:/Projekte/IDE/Oomph-Setup/work/tapir-setup/tapir-product-catalog.setup"
+        value="index:/redirectable.products.setup->https://raw.githubusercontent.com/tapir-test/tapir-oomph-setup/master/tapir-product-catalog.setup"
         vm="true"/>
     <productVersion
-        href="file://C:/Projekte/IDE/Oomph-Setup/work/tapir-setup/tapir-ide.setup#//@versions[name='3.x']"/>
+        href="https://raw.githubusercontent.com/tapir-test/tapir-oomph-setup/master/tapir-ide.setup#//@versions[name='3.x']"/>
   </installation>
 </setup:Configuration>

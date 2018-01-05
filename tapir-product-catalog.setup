@@ -17,6 +17,6 @@
     <repository
         url="${oomph.update.url}"/>
   </setupTask>
-  <product href="file://C:/Projekte/IDE/Oomph-Setup/work/tapir-setup/tapir-ide.setup#/"/>
+  <product href="https://raw.githubusercontent.com/tapir-test/tapir-oomph-setup/master/tapir-ide.setup#/"/>
   <description>tapir Product Catalog</description>
 </setup:ProductCatalog>
