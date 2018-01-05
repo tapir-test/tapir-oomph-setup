@@ -24,6 +24,8 @@
         name="org.eclipse.oomph.setup.feature.group"/>
     <repository
         url="${oomph.update.url}"/>
+    <repository
+        url="http://download.eclipse.org/webtools/repository/oxygen"/>
   </setupTask>
   <setupTask
       xsi:type="setup.p2:P2Task"
