@@ -96,9 +96,9 @@
       xsi:type="setup.p2:P2Task"
       label="Oomph">
     <requirement
-        name="org.eclipse.oomph.setup.maven"/>
+        name="org.eclipse.oomph.setup.maven.feature.group"/>
     <requirement
-        name="org.eclipse.oomph.setup.git"/>
+        name="org.eclipse.oomph.setup.git.feature.group"/>
   </setupTask>
   <setupTask
       xsi:type="setup:CompoundTask"
