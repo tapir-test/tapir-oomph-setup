@@ -59,6 +59,8 @@
         name="org.eclipse.egit.feature.group"/>
     <requirement
         name="org.eclipse.jgit.feature.group"/>
+    <repository
+        url="http://download.eclipse.org/egit/updates"/>
   </setupTask>
   <setupTask
       xsi:type="setup.p2:P2Task"
