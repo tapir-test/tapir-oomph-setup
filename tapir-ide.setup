@@ -128,6 +128,11 @@
       value="http://download.eclipse.org/releases/oxygen/">
     <description></description>
   </setupTask>
+  <setupTask
+      xsi:type="setup:EclipseIniTask"
+      option="-Xmx"
+      value="2048m"
+      vm="true"/>
   <version name="3.x"
       label="3.x (latest major)"
       requiredJavaVersion="1.8">
