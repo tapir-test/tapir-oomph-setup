@@ -118,14 +118,14 @@
       xsi:type="setup:VariableTask"
       id="xtend.version"
       name="xtend.version"
-      value="2.13.0">
+      value="2.14.0">
     <description></description>
   </setupTask>
   <setupTask
       xsi:type="setup:VariableTask"
       type="URI"
       name="eclipse.p2repo"
-      value="http://download.eclipse.org/releases/oxygen/">
+      value="http://download.eclipse.org/releases/photon/">
     <description></description>
   </setupTask>
   <setupTask
