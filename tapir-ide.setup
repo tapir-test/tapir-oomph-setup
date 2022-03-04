@@ -42,7 +42,7 @@
     <repository
         url="https://repo1.maven.org/maven2/.m2e/connectors/m2eclipse-egit/0.15.1/N/LATEST/"/>
     <repository
-        url="http://download.eclipse.org/technology/m2e/releases"/>
+        url="https://download.eclipse.org/technology/m2e/releases/latest/"/>
     <description></description>
   </setupTask>
   <setupTask
